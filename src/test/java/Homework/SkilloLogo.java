@@ -74,4 +74,3 @@ public class SkilloLogo {
         Assert.assertTrue(homePage.isLogoDisplayed(),"Logo is not displayed");
     }
 }
-
