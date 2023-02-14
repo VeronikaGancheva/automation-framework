@@ -33,7 +33,7 @@ public class SkilloLogoFactory {
     @DataProvider(name = "getUsers")
     public Object[][] getUsers() {
         return new Object[][]{
-                {"ivelinQA", "Ivelin123", "ivelinQA"},
+               {"manager@gmail.com", "Manager1.Use1", "ManagerUser"},
                {"testAdmin@gmail.com", "Admin1.User1", "AdminUser"}
         };
     }
